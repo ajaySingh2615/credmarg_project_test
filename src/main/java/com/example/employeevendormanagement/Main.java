@@ -1,4 +1,4 @@
-package com.credmarg;
+package com.example.employeevendormanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
